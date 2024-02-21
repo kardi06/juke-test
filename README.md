@@ -18,6 +18,6 @@ Hello, This App I made is Using laravel Breeze and AdminLte dashboard Admin.
 
 At first, you will see Login Page, if you want to create new user, clik **register**
 
-Default username is **akun_bar** and password **#Anakayam11**.
+Default username is **akun_baru** and password **#Anakayam11**.
 
 ## Thank You
